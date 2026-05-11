@@ -1,4 +1,5 @@
-#SimpleShooter by Mikolaj Morningstar to AKP Software Engineer Project for Engineer
+#SimpleShooter by vvynerio
+<img width="846" height="467" alt="Screenshot 2026-05-11 123111" src="https://github.com/user-attachments/assets/d9d49fff-2c13-45eb-a911-5ddbc405e6a0" />
 
 Tools used:
 Unreal Engine 5.2 early access sometimes can be broke, 5.1.1
@@ -9,12 +10,6 @@ Move mouse to aim, left clicking to shoot
 
 With the gamepad like DualSense, use left thumbstick to move your character around and use X-Button to jump.
 Use the right thumbstick to aim, and then press the R2 trigger to shoot.
-
-#Files what must stay in memory even when SSD will be full 
-Content - necessary BP & AP, better dont deleted //mostly-importand 
-Source - necessary code, better dont deleted  //most-importand
-Binaries - not necessary can be rebuilt automatically by engine 
-Config - necessary, configuration can be rebuilt manually in engine but takeing a while
 
 #KillEmALL
 The game is won if you destroy all the enemy shooter characters, without your healthbar 
