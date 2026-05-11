@@ -16,6 +16,11 @@ The game is won if you destroy all the enemy shooter characters, without your he
 reaching zero. If your healthbar reaches zero, the game is lost. After each win/lose condition,
 the game restarts after 5 seconds.
 
+## Assets Notice
+This repository does not contain all game assets.
+Certain files were omitted because of their large size and repository storage limitations.
+The uploaded assets are sufficient to showcase the project structure and implementation
+
 ###
 DISCLAIMER: 
 
