@@ -1,4 +1,4 @@
-#SimpleShooter by vvynerio
+#SimpleShooter by VIYUKI
 <img width="846" height="467" alt="Screenshot 2026-05-11 123111" src="https://github.com/user-attachments/assets/d9d49fff-2c13-45eb-a911-5ddbc405e6a0" />
 
 Tools used:
