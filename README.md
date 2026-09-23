@@ -90,7 +90,7 @@ For the project structure and source code:
 
 MIT License
 
-Copyright (c) 2023 vvynerio SimpleShooter
+Copyright (c) 2023 VIYUKI SimpleShooter
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
